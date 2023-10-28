@@ -11,7 +11,7 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating dynam
 - **Other Tools:** Git, AWS
 
 ## 🔭 Projects
-- deltacommunication.xyz: Created and deployed a full stack web app for a local network provider
+- [Delta Communication](deltacommunication.xyz): Created and deployed a full stack web app for a local network provider
 - chordengine.com: Used django and mongodb for a simple guitar chord app Still in development
 
 ## 🌱 Currently Learning
