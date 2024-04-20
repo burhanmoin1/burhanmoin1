@@ -16,11 +16,6 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating eye c
 ## 🌱 Currently Learning
 I'm currently exploring React.js/MySQL/Django/CSS/HTML to further enhance my understanding of frontend and backend seamless integration. As I am certain you can never learn enough.
 
-## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/burhan-moin-511468227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Portfolio: burhansapps.com (in-development)
-- Email: burhan.moin@icloud.com
-
 ## 🎯 Goals
 My goal is to continue honing my skills, contributing to open-source projects, and collaborating with passionate individuals to build impactful solutions that make a difference.
 
