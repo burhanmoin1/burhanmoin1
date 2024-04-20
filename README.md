@@ -5,8 +5,8 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating eye c
 
 ## 🛠 Skills
 - **Languages:** HTML, CSS, Python, Javascript, SQL
-- **Front-end:** ReactJS
-- **Back-end:** Django
+- **Front-end frameworks:** ReactJS
+- **Back-end frameworks:** Django
 - **Databases:** MySQL, MongoDB
 - **Other Tools:** Git, AWS
 
