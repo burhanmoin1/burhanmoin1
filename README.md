@@ -4,7 +4,7 @@
 I'm a passionate Full Stack Web Developer with a keen interest in creating eye catching and captivating designs, with a strong backend as support. Nevertheless I am always learning I would say and everyday is a new learning process. My expertise are django, python and javascript. 
 
 ## 🛠 Skills
-- **Languages:** HTML, CSS, Python, Javascript
+- **Languages:** HTML, CSS, Python, Javascript, SQL
 - **Front-end:** ReactJS
 - **Back-end:** Django
 - **Databases:** MySQL, MongoDB
