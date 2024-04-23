@@ -4,7 +4,7 @@
 I'm a passionate Full Stack Web Developer with a keen interest in creating eye catching and captivating designs, with a strong backend as support. Nevertheless I am always learning I would say and everyday is a new learning process. My expertise are django, python and javascript. 
 
 ## 🛠 Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,django,mysql,mongodb,aws,github)
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,react,django,mysql,mongodb,aws,github)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=burhanmoin1)](https://git.io/streak-stats)
 
