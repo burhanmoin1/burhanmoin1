@@ -6,7 +6,7 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating eye c
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,react,django,mysql,mongodb,aws,github)
 
-[(https://streak-stats.demolab.com/?user=burhanmoin1)]](https://streak-stats.demolab.com/?user=burhanmoin1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=burhanmoin1)
 
 ## 🔭 Projects
 - [Delta Communication](https://deltacommunication.xyz): Created and deployed a full stack web app for a local network provider, used django to create API views for the react frontend. Mostly being used to take form submissions from users, that include complaint noting and new admissions. Used AWS services to deploy the app on the domain, click the name to visit the website.
