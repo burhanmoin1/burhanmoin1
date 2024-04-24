@@ -6,8 +6,6 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating eye c
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,react,django,mysql,mongodb,aws,github)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=burhanmoin1)](https://git.io/streak-stats)
-
 ## 🔭 Projects
 - [Delta Communication](https://deltacommunication.xyz): Created and deployed a full stack web app for a local network provider, used django to create API views for the react frontend. Mostly being used to take form submissions from users, that include complaint noting and new admissions. Used AWS services to deploy the app on the domain, click the name to visit the website.
 - [Chord engine](https://www.chordengine.com): (Still in development) The idea for Chordengine is that it should be a music based social media platform. We are still working on the nooks and crannies of the site, but the basic platform is up and running. The most difficult part was getting the mongoDB database to work with the django backend. Since django has no official support for mongoDB the only way was to create my own engine and settings to make it run with the database. Which was a hassle but succesfully implemented. You can visit the website and check out the initial features of the website. Some features include saving guitar details for the users and uploading, deleting and playing audio in the website.
