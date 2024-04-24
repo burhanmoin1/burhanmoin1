@@ -6,7 +6,7 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating eye c
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,react,django,mysql,mongodb,aws,github)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=burhanmoin1)(https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=burhanmoin1)
 
 
 ## 🔭 Projects
