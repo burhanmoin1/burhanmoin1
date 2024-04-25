@@ -1,7 +1,7 @@
 # Hey, I'm Burhan👋
 
 ## 💬 About Me
-I'm a passionate Full Stack Web Developer with a keen interest in creating eye catching and captivating designs, with a strong backend as support. Nevertheless I am always learning I would say and everyday is a new learning process. My expertise are django, python and javascript. 
+I'm a passionate Full Stack Web Developer/Software Engineer with a keen interest in creating eye catching and captivating designs, with a strong backend as support. Nevertheless I am always learning I would say and everyday is a new learning process. My expertise are django, python and javascript. 
 
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,html,css,python,react,django,mysql,mongodb,aws,github)
@@ -15,7 +15,7 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating eye c
 - [Westgate Capital](https://main.d2jyl4r78wt6jq.amplifyapp.com): (Lacking a domain and backend but deployed on amplify for frontend viewing) This website is created for a real estate company in Montreal. The main features of the website include, a simple but captivating UI and a showcase of the properties provided by the company. You can check the frontend out by clicking the link, the website was created using reactJS and django.
 
 ## 🌱 Currently Learning
-I'm currently exploring React.js/MySQL/Django/CSS/HTML to further enhance my understanding of frontend and backend seamless integration. As I am certain you can never learn enough.
+I'm currently exploring React.js/MySQL/Django/ASP.NET/C++/C# to further enhance my understanding of frontend and backend seamless integration. As I am certain you can never learn enough.
 
 ## 🎯 Goals
 My goal is to continue honing my skills, contributing to open-source projects, and collaborating with passionate individuals to build impactful solutions that make a difference.
